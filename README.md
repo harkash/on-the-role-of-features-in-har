@@ -4,4 +4,7 @@ Implementation of the models studied in the paper: On the role of features in hu
 ## Details coming soon!
  - Pre-processed datasets
  - Autoencoder training and evaluation
+  [] Vanilla autoencoder
+  [x] Convolutional autoencoder
+  [] Recurrent autoencoder
  - Trained models
